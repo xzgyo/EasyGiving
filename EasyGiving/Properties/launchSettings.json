@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EasyGiving (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "EasyGiving (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
